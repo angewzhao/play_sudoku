@@ -1,10 +1,13 @@
 # Play Sudoku!
 
-This module allows players to play an interactive version of Sudoku. This version allows the player to choose one of
-three levels: easy, medium or hard. The game then creates a board depending on the level chosen. It may take a while, so
-wait, at most, a minute if the level chosen was "hard". It also allows the players to have a timer to see how long they
-have been playing, an option to see the backtracking algorithm in action by clicking the solve button, and an
-automatic checker that lets them know if they can put a value there or not.
+This module allows players to play an interactive version of Sudoku. 
+
+This version allows the player to choose one of three levels: easy, medium or hard. The game then creates a board depending on the level chosen. It may take a while, so
+wait, at most, a minute if the level chosen was "hard". 
+
+Want to watch the board being solved? Watch the backtracking algorithm visualized by clicking the solve button. 
+
+Features also include: a timer to see how long players have been playing, an automatic checker that lets them know if they can put a value there or not, and three levels to play! Each board created is seeded randomly and different each time. 
 
 This game was inspired by TechWithTim.
 
